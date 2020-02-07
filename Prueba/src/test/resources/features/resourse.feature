@@ -1,4 +1,5 @@
-Feature: Prueba de admision para QA Automation Analyst en Choucair Testing
+Feature: Prueba tecnica para el cargo de Analista de pruebas en la empresa Choucair Testing.
+
 Validar busqueda de empleo en el modulo empleo de la pagina de ChoucairTesting
 
   @Busqueda-de-empleo-exitosa
